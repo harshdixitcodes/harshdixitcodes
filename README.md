@@ -2,7 +2,8 @@
 <p align="center">
   <strong><b><em>CSE Undergrad | Developer | Open-Source Enthusiast | Lifelong Learner | Tech Enthusiast | Future Innovator | Dreamer | Creator | Astrophile</em></b></strong>
 </p><hr><br>
-<h2># About Me</h2>
+
+<h2> About Me</h2>
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" align="right" width="400">
 
 - By day, I'm a student navigating the intriguing complexities of Computer Science and Engineering. I wrangle bugs and wrestle with code as a passionate developer
@@ -38,7 +39,7 @@ You can find me in the gym trying to outlift my last bug fix session, practicing
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=harshdixitcodes&show_icons=true&locale=en" alt="harshdixitcodes"/></p>
 <hr>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=harshdixitcodes" alt="harshdixitcodes"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshdixitcodes&show_icons=true&locale=en&layout=compact" alt="harshdixitcodes" width="365"/></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshdixitcodes&show_icons=true&locale=en&layout=compact" alt="harshdixitcodes" width="325"/></p>
 
 <br><br><br><br><br><br><br><br><br><hr><br>
 <h2 align="center">Find Me</h2>
