@@ -38,7 +38,7 @@ You can find me in the gym trying to outlift my last bug fix session, practicing
 <h2 align="center">My Github Stats!!</h2>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=harshdixitcodes&show_icons=true&locale=en" alt="harshdixitcodes"/></p>
 <hr>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=harshdixitcodes" alt="harshdixitcodes" width="450"/>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=harshdixitcodes" alt="harshdixitcodes" width="400"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshdixitcodes&show_icons=true&locale=en&layout=compact" alt="harshdixitcodes" width="325"/></p>
 
 <br><br><br><br><br><br><br><br><br><hr><br>
